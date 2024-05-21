@@ -1,0 +1,8 @@
+langchain
+chromadb
+pypdf
+sentence_transformers
+boto3
+awscli
+boto3
+
